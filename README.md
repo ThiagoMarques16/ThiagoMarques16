@@ -13,6 +13,6 @@
 
  ##
   
-- 📕 Estudando Desenvolvimeto Front-end
+- 📕 Estudando Desenvolvimeto Back-end
 - ✏ Análise e Desenvolvimento de Sistemas
 - 📌Águas Lindas - GO
