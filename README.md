@@ -6,7 +6,7 @@
 </div>
   
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Thiago-c#" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png">
+  <img align="center" alt="Thiago-c#" height="50" width="45" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png">
 
 </div>
 
